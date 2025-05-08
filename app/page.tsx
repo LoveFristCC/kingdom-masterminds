@@ -19,7 +19,7 @@ export default function Home() {
       <div className="relative z-10 w-full max-w-6xl">
         <div className="mt-12 mb-12 text-center">
           <h1 className="relative mb-3 bg-gradient-to-br from-gray-900 via-gray-700 to-gray-500 bg-clip-text pb-1 text-5xl font-bold tracking-tight text-transparent md:text-7xl dark:from-white dark:via-gray-300 dark:to-gray-500">
-            Kingdom Business
+            Kingdom Masterminds
             <span className="absolute -bottom-1 left-0 right-0 mx-auto h-1 w-24 rounded bg-gradient-to-r from-blue-500 to-indigo-500"></span>
           </h1>
           <p className="mx-auto max-w-2xl text-gray-600 dark:text-gray-400">
